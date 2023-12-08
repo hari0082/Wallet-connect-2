@@ -1,3 +1,3 @@
-# Wallet-connect-2
+# Wallet-connect
 
-Jeg har lavet en side der kan forbinde din crypto wallet. Der kan logges ind med en af de følgende wallet, som fx: metamask eller coinbase.
+Simple app der kan forbinde til din crypto wallet, som fx: Metamast, coinbase og flere. (Er mobil venlig)
