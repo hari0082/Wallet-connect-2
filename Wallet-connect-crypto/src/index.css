@@ -1,0 +1,30 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  background: rgb(34,115,197);
+  background: linear-gradient(228deg, rgba(34,115,197,1) 30%, rgba(148,45,253,1) 100%);
+}
+
+h1 {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.nav {
+  background-color: aliceblue;
+  display: flex;
+  width: 100vw;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
